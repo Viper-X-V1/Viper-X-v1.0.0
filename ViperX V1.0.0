@@ -20,3 +20,8 @@ Section:NewToggle("Use Toggle-adb", "ToggleInfo", function(state)
         print("Toggle Off")
     end
 end)
+
+
+
+
+SORRY GUYS PLEASE NOTE THAT THIS IS UNFINISHED AND PATCHED SO NOW PLEASE WAIT UNTILL I MAKE A NEW SCRIPT ViperX-v2.0.0 
